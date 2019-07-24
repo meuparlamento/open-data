@@ -24,3 +24,6 @@ mongoimport --db meuParlamento --collection proposals --file proposals.json
 ## Meta
 
 Team [@meuparlamento](https://twitter.com/meuparlamento) – dev@meuparlamento.pt
+
+## License
+This work is licensed under the Creative Commons Attribution-ShareAlike 2.5 Generic License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/2.5/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
